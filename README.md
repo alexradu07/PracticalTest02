@@ -1,1 +1,1 @@
-# PracticalTest02
+# Radu David-Alexandru, grupa 343C1
